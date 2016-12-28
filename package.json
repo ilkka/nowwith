@@ -1,6 +1,6 @@
 {
   "name": "nowwith",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Now with 3x the riboflavin!",
   "main": "index.js",
   "scripts": {
