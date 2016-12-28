@@ -1,0 +1,23 @@
+{
+  "name": "nowwith",
+  "version": "0.0.0",
+  "description": "Now with 3x the riboflavin!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkka/nowwith.git"
+  },
+  "author": "Ilkka Laukkanen <ilkka@ilkka.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilkka/nowwith/issues"
+  },
+  "homepage": "https://github.com/ilkka/nowwith#readme",
+  "dependencies": {
+    "numeral": "^2.0.4",
+    "random-js": "^1.0.8"
+  }
+}
